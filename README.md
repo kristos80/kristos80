@@ -1,4 +1,7 @@
-### Hi there 👋  I'm Chris
+### Hi there 👋  I'm Chris ###
+
+- 🔭 I’m currently working at [Digital Publications Group](https://github.com/digitalpublications)
+- 😄 Pronouns: Sea/Hair
 
 <!--
 **kristos80/kristos80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
