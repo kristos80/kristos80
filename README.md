@@ -1,6 +1,7 @@
 ### Hi there 👋  I'm Chris ###
 
 - 🔭 I’m currently working at [Digital Publications Group](https://github.com/digitalpublications)
+- 💬 Ask me about `PHP`, `Databases` or `HTML`
 - 😄 Pronouns: Sea/Hair
 
 <!--
