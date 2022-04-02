@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working at [Digital Publications Group](https://github.com/digitalpublications)
 - 💬 Ask me about `PHP`, `Databases` or `HTML`
-- 😄 Pronouns: Sea/Hair
 
 <!--
 **kristos80/kristos80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
