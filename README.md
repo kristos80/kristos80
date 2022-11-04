@@ -1,7 +1,8 @@
 ### Hi there 👋  I'm Chris ###
 
-- 🔭 I’m currently working at [Digital Publications Group](https://github.com/digitalpublications)
+- 🔭 I work at [Digital Publications Group](https://github.com/digitalpublications)
 - 💬 Ask me about `PHP`, `Databases` or `HTML`
+- 🌱 I am currently interested in async programming (ReactPHP)
 
 <!--
 **kristos80/kristos80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
