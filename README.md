@@ -1,7 +1,6 @@
 ### Hi there 👋  I'm Chris ###
 
 - 🔭 I work at [Digital Publications Group](https://github.com/digitalpublications)
-- 💬 Ask me about `PHP`, `Databases` or `HTML`
 - 🌱 I am currently interested in async programming (ReactPHP)
 
 <!--
