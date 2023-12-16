@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chris</h1>
-<p align="center">A PHP backend developer from Thessaloniki, Greece.</p>
-<p align="center">I am currently interested in async programming (ReactPHP & AMPHP) &amp; E-Commerce Applications</p>
+<p align="center">A <code>PHP</code> backend developer from Thessaloniki, Greece.</p>
+<p align="center">I am currently interested in async programming (<code>ReactPHP</code> & <code>AMPHP</code>), <code>Slim Framework</code> &amp; E-Commerce Applications based on <code>WooCommerce</code></p>
 
 
 
