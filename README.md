@@ -3,7 +3,7 @@
 <div align="center">
   CTO for several brands as 
   <a href="https://myikona.gr" target="_blank">myikona</a>, 
-  <a href="https://uk" target="_blank">UnitedKind</a>, 
+  <a href="https://uk.gr" target="_blank">UnitedKind</a>, 
   <a href="https://lobster.gr" target="_blank">Lobster</a> &amp; 
   <a href="https://hedrix.eu" target="_blank">Hedrix</a></div>
 <hr/>
