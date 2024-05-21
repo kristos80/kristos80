@@ -7,6 +7,7 @@
   <a href="https://lobster.gr" target="_blank">Lobster</a> &amp; 
   <a href="https://hedrix.eu" target="_blank">Hedrix</a></div>
 <hr/>
+
 <div align="center">I am currently interested in
   <div>&nbsp;</div>
   <div align="center">
@@ -29,3 +30,4 @@
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@chris.k.athanasiadis" height="30" width="40" /></a>
 </div>
 </div>
+[![Chris' GitHub stats](https://github-readme-stats.vercel.app/api?username=kristos80)](https://github.com/kristos80/github-readme-stats)
