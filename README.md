@@ -1,13 +1,10 @@
-<div align="center"><code>PHP</code> backend developer from Thessaloniki, Greece.</div>
-<div align="center">
-
-
-<div align="center">I am currently interested in
-  <div>&nbsp;</div>
-  <div align="center">
-    <div>Async programming (<code>ReactPHP</code> & <code>AMPHP</code>)</div>
-    <div><code>Slim Framework</code></div>
-    <div>E-Commerce Applications based on <code>WooCommerce</code></div>
+<div align="left"><code>PHP</code> backend developer from Thessaloniki, Greece. I am currently interested in:</div>
+<div>&nbsp;</div>
+<div align="left">
+  <div align="left">
+    <div>• Async programming (<code>ReactPHP</code> & <code>AMPHP</code>)</div>
+    <div>• <code>Slim Framework</code></div>
+    <div>• E-Commerce Applications based on <code>WooCommerce</code></div>
   </div>
 </div>
 <hr/>
