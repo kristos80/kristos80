@@ -5,6 +5,7 @@
     <div>• Async programming (<code>ReactPHP</code> & <code>AMPHP</code>)</div>
     <div>• <code>Slim Framework</code></div>
     <div>• E-Commerce Applications based on <code>WooCommerce</code></div>
+    <div>• Unit and Mutation Testing</div>
   </div>
 </div>
 <hr/>
